@@ -1,3 +1,7 @@
+## Youtube Tutorial
+
+[Click here to watch our tutorial on YouTube](https://www.youtube.com/watch?v=8IQH15L4r_E&t=275s)
+
 # 🔒 Portable-AI-USB
 
 > A fully private, portable AI assistant that runs 100% from a USB flash drive.  
@@ -14,10 +18,6 @@
 | **Your model of choice** | Any model supported by Ollama (e.g. LLaMA 3, Mistral, Phi-3) |
 
 Everything — the engine, the interface, your chats, and the model — lives on the USB drive.
-
-## Youtube Tutorial
-
-[![Watch the video](https://www.youtube.com/watch?v=8IQH15L4r_E&t=275s)](https://www.youtube.com/watch?v=8IQH15L4r_E&t=275s)
 
 ---
 
