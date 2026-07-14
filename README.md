@@ -15,6 +15,10 @@
 
 Everything — the engine, the interface, your chats, and the model — lives on the USB drive.
 
+## Youtube Tutorial
+
+[![Watch the video](https://www.youtube.com/watch?v=8IQH15L4r_E&t=275s)](https://www.youtube.com/watch?v=8IQH15L4r_E&t=275s)
+
 ---
 
 ## 🛠️ Requirements
